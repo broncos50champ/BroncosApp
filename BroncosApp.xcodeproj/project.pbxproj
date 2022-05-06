@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6C2438DE2823064F006D07F1 /* BroncosViewcontroller.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C2438DD2823064F006D07F1 /* BroncosViewcontroller.swift */; };
 		6C6E329D27C971A300F7B239 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C6E329C27C971A300F7B239 /* AppDelegate.swift */; };
 		6C6E329F27C971A300F7B239 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C6E329E27C971A300F7B239 /* SceneDelegate.swift */; };
 		6C6E32A127C971A300F7B239 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C6E32A027C971A300F7B239 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6C2438DD2823064F006D07F1 /* BroncosViewcontroller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BroncosViewcontroller.swift; sourceTree = "<group>"; };
 		6C6E329927C971A300F7B239 /* BroncosApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BroncosApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6C6E329C27C971A300F7B239 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6C6E329E27C971A300F7B239 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 			children = (
 				6C6E329C27C971A300F7B239 /* AppDelegate.swift */,
 				6C6E329E27C971A300F7B239 /* SceneDelegate.swift */,
+				6C2438DD2823064F006D07F1 /* BroncosViewcontroller.swift */,
 				6C6E32A027C971A300F7B239 /* ViewController.swift */,
 				6C6E32A227C971A300F7B239 /* Main.storyboard */,
 				6C6E32A527C971AC00F7B239 /* Assets.xcassets */,
@@ -141,6 +144,7 @@
 				6C6E32A127C971A300F7B239 /* ViewController.swift in Sources */,
 				6C6E329D27C971A300F7B239 /* AppDelegate.swift in Sources */,
 				6C6E329F27C971A300F7B239 /* SceneDelegate.swift in Sources */,
+				6C2438DE2823064F006D07F1 /* BroncosViewcontroller.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
