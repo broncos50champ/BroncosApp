@@ -9,14 +9,17 @@ import UIKit
 
 class BroncosViewcontroller: UIViewController {
 
+    @IBOutlet weak var broncosText: UITextView!
     var imagename=""
     @IBOutlet weak var secondView: UIImageView!
-    
+    var textwords = ""
     
     override func viewDidLoad() {
         super.viewDidLoad()
         
         secondView.image = UIImage(named: imagename)
+        
+        broncosText.text = textwords
 
         // Do any additional setup after loading the view.
     }
